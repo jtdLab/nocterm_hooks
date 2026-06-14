@@ -3,6 +3,8 @@ description: >-
   A port of flutter_hooks to the nocterm world — reusable, composable local
   state for nocterm components, so components stay free of hand-written State.
 version: 0.0.1
+repository: https://github.com/jtdLab/nocterm_hooks
+homepage: https://github.com/jtdLab/nocterm_hooks
 
 environment:
   sdk: ^3.11.0
