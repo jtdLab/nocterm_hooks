@@ -1,0 +1,15 @@
+name: nocterm_hooks
+description: >-
+  A port of flutter_hooks to the nocterm world — reusable, composable local
+  state for nocterm components, so components stay free of hand-written State.
+version: 0.0.1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  nocterm: ^0.5.1
+
+dev_dependencies:
+  test: ^1.31.1
+  very_good_analysis: ^9.0.0
